@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<signos>
+    <signo>
+        <dataInicio>03-21</dataInicio>
+        <dataFim>04-20</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>
+            Áries é um signo que respeita a individualidade de cada um e espera uma atitude recíproca do próximo. Não que seja um problema liderar, 
+            pelo contrário, você sabe mandar, mas é que para você é muito óbvio que cada um pode fazer o que quiser, na hora que quiser. Portanto, 
+            se ficam te cobrando e exigindo, é quase como se estivessem pedindo para você ficar nervosa. Afinal, você precisa se sentir livre para 
+            se movimentar e também para curtir uma boa pausa quando quer.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>04-21</dataInicio>
+        <dataFim>05-20</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>
+        Touro é o signo ligado à vida material e, por isso, podemos dizer que ele está relacionado ao seu dinheiro, à comida, posses, ao conforto 
+        e ao corpo. Touro é ouro, saiba disso, taurina. Você sabe valorizar tudo que é tátil e que ativa o seu sensorial. Você sabe enxergar a 
+        qualidade das coisas só de olhar. Sentir com as mãos também é um importante sensor de qualidade. Repare em como você vai deslizando as 
+        suas mãos pelos objetos ao passar por uma loja.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>05-21</dataInicio>
+        <dataFim>06-20</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>
+        Gêmeos é um dos signos mais engraçados do zodíaco, graças ao seu raciocínio rápido e sua habilidade de enxergar as coisas de um ponto de vista 
+        mais leve. Essas qualidades fazem com que as geminianas possuam uma criatividade muito grande, no sentido de conseguirem pensar em soluções 
+        inusitadas para qualquer problema. E bota pensar nisso!
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>06-21</dataInicio>
+        <dataFim>07-20</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>
+        Câncer, o signo das emoções. Se existe um signo que veio para aprender a fluir nas oscilações e na beleza dos feelings todos é esse.
+        Sendo o primeiro signo do zodíaco que entra em contato com as águas, seria como se ele ainda estivesse aprendendo a lidar com os sentimentos, 
+        tipo uma criança. E é o que se vê em seu jeito fofo, carinhoso e, às vezes, manhoso, infantil ou birrentinho.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>07-21</dataInicio>
+        <dataFim>08-20</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>
+            Determine prioridades e organize as finanças. Assuntos de família ganharão nova perspectiva. Elimine
+            pendências, resolva assuntos jurídicos e encerre o passado. Você poderá optar por uma virada radical de
+            vida. Amplie as comunicações, inicie relações em outro ambiente e renegocie contratos insatisfatórios.
+            Mercúrio retrógrado trará reflexões sobre investimentos e valores. Firme acordos.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>08-21</dataInicio>
+        <dataFim>09-20</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>
+            Administre seus recursos com novas soluções e diminua inquietudes. Caminhos de crescimento financeiro
+            ficarão mais claros. Aproveite o dia para pesquisar informações, ficar por dentro das notícias e esclarecer
+            dúvidas. Mercúrio retrógrado em seu signo cobrará reflexões e ajustes nos projetos pessoais. A fase será
+            favorável a mudanças e novos empreendimentos. Tome decisões sobre o futuro.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>09-21</dataInicio>
+        <dataFim>10-20</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>
+            A fase favorecerá um novo começo de vida. Não alimente pensamentos repetitivos e supere os próprios
+            obstáculos. Encerre processos do passado e embarque em novas experiências. Marte incentivará viagens,
+            estudos e conexões internacionais. Se quer abrir caminhos, invista em você. Um sonho da vida familiar poderá
+            se realizar. Conte com mais segurança, brilho, poder de decisão e bons apoios.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>10-21</dataInicio>
+        <dataFim>11-20</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>
+            Aproveite a passagem da Lua por seu signo para se cuidar com carinho e fazer as coisas que você gosta.
+            Magnetismo, empatia e poder de atração não faltarão hoje. Realize seus desejos secretos e dê mais
+            intensidade à vida: emoções estarão à flor da pele. Mergulhe nos sentimentos, aprofunde o diálogo com o par
+            ou amigos e descubra novas motivações. O dia trará revelações significativas.
+        </descricao>
+    </signo>
+    <signo>
+        
+        <dataInicio>11-21</dataInicio>
+        <dataFim>12-20</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>
+            Mais frágil, a saúde pedirá descanso e espaços de relaxamento. Faça uma massagem ou pratique meditação e
+            restaure suas energias. Um pouco de sossego alimentará a alma. Trocas de mensagens e encontros darão
+            segurança; diminua preocupações com o futuro e valorize o momento presente. Pequenas atitudes farão
+            diferença no amor. Uma resposta profissional será positiva. Prestígio em alta!
+        </descricao>
+    </signo>
+    <signo>   
+        <dataInicio>12-21</dataInicio>
+        <dataFim>01-20</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>
+            Encontro inesperado ou imprevisto com uma amizade agitará o clima. O dia cobrará flexibilidade e antenas
+            ligadas nos acontecimentos coletivos. Proposta de longe acelerará decisões de trabalho ou de viagem. Você
+            poderá aprovar um projeto e garantir mais estabilidade financeira. Caminhos para o futuro estarão
+            iluminados. Espere por sucesso e visibilidade profissional.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>01-21</dataInicio>
+        <dataFim>02-20</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>
+            Decisões sérias na vida pessoal e na carreira. Visualize novos planos, defina prazos e invista
+            no seu futuro. Respostas existenciais e íntimas incentivarão mudanças e reestruturações de vida. Se planejar
+            direitinho, tudo dará certo! Desfaça confusões nas contas ou em contratos de serviço e tome cuidado com
+            fraudes. Questões de justiça estarão favorecidas. Abrace causas coletivas.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>02-21</dataInicio>
+        <dataFim>03-20</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>
+            Restrições materiais tendem a afetar suas ações, por isso a criatividade pode fazer a diferença. A vida privada fica mais 
+            aprazível com Vênus no setor íntimo, enquanto que desperta suas habilidades na gestão patrimonial, além de favorecer a 
+            economia sustentável.
+        </descricao>
+    </signo>
+</signos>
